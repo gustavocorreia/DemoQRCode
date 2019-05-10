@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">DemoQRCode</string>
     <string name="ler_qrcode">Ler QRCode</string>
+    <string name="permissao_negada">Permissão negada</string>
 </resources>
