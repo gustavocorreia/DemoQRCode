@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoQRCode</string>
+    <string name="ler_qrcode">Ler QRCode</string>
+</resources>
